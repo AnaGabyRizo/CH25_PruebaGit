@@ -5,6 +5,8 @@ Este proyecto incluye código `HTML` y está pensado para:
 1. practicar
 2. Conocer GIT
 3. Interactuar con GitHub
+4. Mejorar nuestras hablidades en Git/GitHub
+5. Practicar para el proyecto integrador
 
 ---
 
